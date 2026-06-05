@@ -279,5 +279,4 @@ This project is for educational and research purposes. YOLO models are provided 
 
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) — State-of-the-art object detection
 - [SORT](https://github.com/abewley/sort) — Simple Online and Realtime Tracking by Alex Bewley
-#   o b j e c t - d e t e c t i o n - a n d - t r a c k i n g  
- 
+#
